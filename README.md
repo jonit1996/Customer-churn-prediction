@@ -118,7 +118,7 @@ While the model's performance is strong, there is an opportunity to further enha
 
 The use of cross-validation ensures that the model's performance is not overfitted to the specific dataset, making the evaluation robust and reliable.
 
-## Machine Learning 
-- This repository contains machine learning algorithm for customer churn prediction implemented by jupyter notebook and Python
+## Machine Learning Classification Project 
+- This repository contains a machine learning algorithm for customer churn prediction implemented by jupyter notebook and Python
 ## Algorithm used:
 - XGBoot Classifier
